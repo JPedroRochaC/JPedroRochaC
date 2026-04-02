@@ -18,9 +18,9 @@ Aqui no GitHub, compartilho minha **jornada de aprendizado em desenvolvimento de
     <img src="https://img.shields.io/badge/GitHub-JPedroRochaC-181717?style=for-the-badge&logo=github" />
   </a>
   
-  <a href="https://www.linkedin.com/in/pedro-rocha-646085342/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro ROCHA-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+ <a href="https://www.linkedin.com/in/pedro-rocha-646085342/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pedro_Rocha-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
 </p>
 
 ---
