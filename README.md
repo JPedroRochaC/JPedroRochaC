@@ -47,18 +47,9 @@ Meu objetivo é crescer como desenvolvedor, criar projetos cada vez melhores e c
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JPedroRochaC&show_icons=true&theme=default&locale=pt-br" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroRochaC&layout=compact&locale=pt-br" />
-</p>
-
----
-
 ## 📖 Atualmente estudando
 
-- Estruturas de dados com Java
+- Estruturas de dados com Java/Python
 - Banco de dados SQL
 - Lógica de programação
 - Versionamento com Git e GitHub
