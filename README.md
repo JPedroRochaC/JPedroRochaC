@@ -58,20 +58,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir
 - 🧠 Aprendizado contínuo  
 - 📊 Organização e disciplina  
 - 🛠️ Resolução de problemas  
-- 🚀 Proatividade  
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JPedroRochaC&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroRochaC&layout=compact&theme=tokyonight"/>
-
-</div>
-
+- 🚀 Proatividade
+  
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/JPedroRochaC/JPedroRochaC/output/github-contribution-grid-snake.svg" alt="github snake" />
