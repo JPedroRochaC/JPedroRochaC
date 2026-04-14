@@ -76,5 +76,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir
 <p align="center">
   <img src="https://raw.githubusercontent.com/JPedroRochaC/JPedroRochaC/output/github-contribution-grid-snake.svg" alt="github snake" />
 </p>
----
 
