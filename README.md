@@ -60,5 +60,3 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir
 - 🛠️ Resolução de problemas  
 - 🚀 Proatividade
   
----
-![Snake animation](https://github.com/JPedroRochaC/JPedroRochaC/blob/output/github-contribution-grid-snake.svg)
