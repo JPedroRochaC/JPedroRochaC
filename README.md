@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou **Pedro Rocha** 🚀
 
 **Desenvolvedor Full-Stack em formação | Foco em Back-end (Node.js/JS) e projetos reais**
-🇧🇷 Fortaleza, Brasil
+<br>
+📍 Fortaleza, Brasil
 
 Estudante de **Análise e Desenvolvimento de Sistemas** (UNIFAMETRO), construindo projetos freelance para clientes reais enquanto desenvolvo um SaaS próprio de gestão para salões de beleza. Foco em back-end, integrações via API e código organizado.
 
