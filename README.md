@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Pedro Rocha** 🚀
 
-**Desenvolvedor Full-Stack em formação | Foco em Back-end (Node.js/Express) e projetos reais**
+**Desenvolvedor Back-End em formação*
 <br>
 📍 Fortaleza, Brasil
 
