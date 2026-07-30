@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Pedro Rocha** 🚀
 
-**Desenvolvedor Back-End em formação*
+**Desenvolvedor Back-End em formação**
 <br>
 📍 Fortaleza, Brasil
 
