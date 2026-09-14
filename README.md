@@ -1,15 +1,13 @@
 # Olá, eu sou Pedro Rocha 👋
 
-### Desenvolvedor Full-Stack em formação
+### Desenvolvedor Back-End em formação | Java · Spring Boot · SQL
 
 📍 Fortaleza, Ceará  
 🎓 Análise e Desenvolvimento de Sistemas — Unifametro
 
-Sou estudante de tecnologia e estou construindo uma base completa em desenvolvimento web.
+Sou estudante de tecnologia focado em desenvolvimento back-end. Estudo Java, Spring Boot, Spring Data JPA e modelagem de dados com SQL para construir APIs REST robustas e bem estruturadas.
 
-No front-end, desenvolvo interfaces com HTML, CSS e JavaScript. No back-end, estudo Node.js, Express, APIs REST e bancos de dados com PostgreSQL e MongoDB.
-
-Gosto de compreender como interface, regras de negócio e dados se conectam. Busco escrever código organizado, aprender com a prática e evoluir continuamente como desenvolvedor.
+Tenho uma base em front-end (HTML, CSS, JavaScript), o que me ajuda a entender o consumo das APIs que desenvolvo. Gosto de compreender como regras de negócio, persistência de dados e arquitetura de sistemas se conectam. Busco escrever código organizado, aprender com a prática e evoluir continuamente como desenvolvedor.
 
 ---
 
@@ -49,21 +47,23 @@ Gosto de compreender como interface, regras de negócio e dados se conectam. Bus
 
 ## Tecnologias e ferramentas
 
-### Front-End
+### Back-End (foco atual)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Back-End
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Bancos de dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Front-End (básico)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Versionamento
 
@@ -73,7 +73,7 @@ Gosto de compreender como interface, regras de negócio e dados se conectam. Bus
 ### Inteligência artificial e produtividade
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BT3BlbkFJPC90aXRsZT48cGF0aCBkPSJNMjIuMjgxOSA5LjgyMTFhNS45ODQ3IDUuOTg0NyAwIDAgMC0uNTE1Ny00LjkxMDggNi4wNDYyIDYuMDQ2MiAwIDAgMC02LjUwOTgtMi45QTYuMDY1MSA2LjA2NTEgMCAwIDAgNC45ODA3IDQuMTgxOGE1Ljk4NDcgNS45ODQ3IDAgMCAwLTMuOTk3NyAyLjkgNi4wNDYyIDYuMDQ2MiAwIDAgMCAuNzQyNyA3LjA5NjYgNS45OCA1Ljk4IDAgMCAwIC41MTEgNC45MTA3IDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE0NiAyLjkwMDFBNS45ODQ3IDUuOTg0NyAwIDAgMCAxMy4yNTk5IDI0YTYuMDU1NyA2LjA1NTcgMCAwIDAgNS43NzE4LTQuMjA1OCA1Ljk4OTQgNS45ODk0IDAgMCAwIDMuOTk3Ny0yLjkwMDEgNi4wNTU3IDYuMDU1NyAwIDAgMC0uNzQ3NS03LjA3Mjl6bS05LjAyMiAxMi42MDgxYTQuNDc1NSA0LjQ3NTUgMCAwIDEtMi44NzY0LTEuMDQwOGwuMTQxOS0uMDgwNCA0Ljc3ODMtMi43NTgyYS43OTQ4Ljc5NDggMCAwIDAgLjM5MjctLjY4MTN2LTYuNzM2OWwyLjAyIDEuMTY4NmEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4MjZhNC41MDQgNC41MDQgMCAwIDEtNC40OTQ1IDQuNDk0NHptLTkuNjYwNy00LjEyNTRhNC40NzA4IDQuNDcwOCAwIDAgMS0uNTM0Ni0zLjAxMzdsLjE0Mi4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3WiIvPjwvc3ZnPg%3D%3D)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 Utilizo Claude e Codex como ferramentas de apoio para estudar, planejar funcionalidades, investigar erros, revisar código e produzir documentação. Analiso as sugestões e mantenho a responsabilidade pelas decisões e implementações.
 
@@ -81,18 +81,18 @@ Utilizo Claude e Codex como ferramentas de apoio para estudar, planejar funciona
 
 ## Atualmente
 
-- Aprofundando meus conhecimentos em Node.js e Express
-- Estudando PostgreSQL e MongoDB
-- Praticando a integração entre interfaces, APIs e bancos de dados
+- Aprofundando meus conhecimentos em Java e Spring Boot
+- Estudando SQL e modelagem de dados relacional
+- Praticando construção de APIs REST com Spring Data JPA
+- Desenvolvendo meus primeiros projetos back-end para publicar no GitHub
 - Melhorando a organização e a qualidade do meu código
-- Preparando novas aplicações para publicar no GitHub
 - Buscando minha primeira oportunidade em tecnologia
 
 ---
 
 ## Objetivo profissional
 
-Conquistar minha primeira oportunidade como **Desenvolvedor Full-Stack**, aplicando meus conhecimentos em front-end e back-end, aprendendo com profissionais mais experientes e contribuindo com responsabilidade para a equipe.
+Conquistar minha primeira oportunidade como **Desenvolvedor Back-End Java**, aplicando meus conhecimentos em Spring Boot e SQL, aprendendo com profissionais mais experientes e contribuindo com responsabilidade para a equipe.
 
 ---
 
