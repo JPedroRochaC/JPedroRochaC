@@ -1,65 +1,51 @@
-# Olá, eu sou Pedro Rocha 👋
+<!-- HEADER -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00bff3&section=header&reversal=false&text=Ol%C3%A1%2C%20eu%20sou%20Pedro%20Rocha&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=ffffff&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"
+  width="100%"
+/>
 
 ### Desenvolvedor Back-End em formação | Java · Spring Boot · SQL
 
 📍 Fortaleza, Ceará  
 🎓 Análise e Desenvolvimento de Sistemas — Unifametro
 
-Sou estudante de tecnologia focado em desenvolvimento back-end. Estudo Java, Spring Boot, Spring Data JPA e modelagem de dados com SQL para construir APIs REST robustas e bem estruturadas.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em
+desenvolvimento Back-End.
 
-Tenho uma base em front-end (HTML, CSS, JavaScript), o que me ajuda a entender o consumo das APIs que desenvolvo. Gosto de compreender como regras de negócio, persistência de dados e arquitetura de sistemas se conectam. Busco escrever código organizado, aprender com a prática e evoluir continuamente como desenvolvedor.
-
----
-
-## Onde me encontrar
-
-<p align="left">
-  <a href="https://pedrochadev.vercel.app">
-    <img
-      src="https://img.shields.io/badge/Portfólio-pedrocha.dev-39B7A4?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfólio"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/pedro-rocha-646085342/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Pedro_Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:jpedrorochac@gmail.com">
-    <img
-      src="https://img.shields.io/badge/E--mail-jpedrorochac%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="E-mail"
-    />
-  </a>
-
-  <a href="https://instagram.com/pedrocha.dev">
-    <img
-      src="https://img.shields.io/badge/Instagram-pedrocha.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-</p>
+Atualmente estudo **Java, Spring Boot, Spring Data JPA, SQL e modelagem
+de dados relacionais**, buscando desenvolver APIs REST organizadas e bem
+estruturadas.
 
 ---
 
-## Tecnologias e ferramentas
+## 🚀 Atualmente estudando
 
-### Back-End (foco atual)
+- Java
+- Spring Boot
+- Spring Data JPA
+- APIs REST
+- SQL
+- PostgreSQL
+- Modelagem de dados relacionais
+- Git e GitHub
+
+---
+
+## 💻 Tecnologias
+
+### Back-End
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Bancos de dados
+### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Front-End (básico)
+### Front-End
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
@@ -70,36 +56,56 @@ Tenho uma base em front-end (HTML, CSS, JavaScript), o que me ajuda a entender o
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Inteligência artificial e produtividade
+---
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+## 📂 Projetos
 
-Utilizo Claude e Codex como ferramentas de apoio para estudar, planejar funcionalidades, investigar erros, revisar código e produzir documentação. Analiso as sugestões e mantenho a responsabilidade pelas decisões e implementações.
+### API de Usuários
+> Em desenvolvimento com Java, Spring Boot, JPA e PostgreSQL.
+
+### API de Agendamento
+> Projeto para praticar regras de negócio, relacionamentos e persistência.
 
 ---
 
-## Atualmente
+## 🤖 Inteligência Artificial
 
-- Aprofundando meus conhecimentos em Java e Spring Boot
-- Estudando SQL e modelagem de dados relacional
-- Praticando construção de APIs REST com Spring Data JPA
-- Desenvolvendo meus primeiros projetos back-end para publicar no GitHub
-- Melhorando a organização e a qualidade do meu código
-- Buscando minha primeira oportunidade em tecnologia
+Utilizo ferramentas de IA como apoio aos estudos e desenvolvimento para:
 
----
-
-## Objetivo profissional
-
-Conquistar minha primeira oportunidade como **Desenvolvedor Back-End Java**, aplicando meus conhecimentos em Spring Boot e SQL, aprendendo com profissionais mais experientes e contribuindo com responsabilidade para a equipe.
+- investigar erros;
+- revisar código;
+- compreender conceitos;
+- planejar funcionalidades;
+- auxiliar na documentação.
 
 ---
 
-## Perfil profissional
+## 🎯 Objetivo profissional
 
-- Aprendizado contínuo
-- Organização e disciplina
-- Resolução de problemas
-- Curiosidade técnica
-- Proatividade
+Busco minha primeira oportunidade como **Desenvolvedor Back-End Java**,
+onde possa aplicar meus conhecimentos em Java, Spring Boot e SQL,
+aprender com profissionais experientes e contribuir com a equipe.
+
+---
+
+## 📫 Onde me encontrar
+
+<p align="left">
+  <a href="https://pedrochadev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-pedrocha.dev-39B7A4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/pedro-rocha-646085342/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro_Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:jpedrorochac@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-jpedrorochac%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<!-- FOOTER -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00bff3&section=footer&reversal=false"
+  width="100%"
+/>
