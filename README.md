@@ -60,11 +60,8 @@ estruturadas.
 
 ## 📂 Projetos
 
-### API de Usuários
-> Em desenvolvimento com Java, Spring Boot, JPA e PostgreSQL.
-
-### API de Agendamento
-> Projeto para praticar regras de negócio, relacionamentos e persistência.
+### Em andamento
+> processando...
 
 ---
 
